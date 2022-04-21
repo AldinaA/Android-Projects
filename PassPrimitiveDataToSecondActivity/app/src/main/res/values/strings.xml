@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PassDataBetweenActivities</string>
+    <string name="title">Membership Form</string>
+    <string name="name">Full Name</string>
+    <string name="current_weight">Current Weight</string>
+    <string name="height">Height</string>
+    <string name="goal_weight">Goal Weight</string>
+    <string name="phone">Phone</string>
+    <string name="address">Adress</string>
+    <string name="conditions">I have read, understood and accepted membership rules</string>
+</resources>
